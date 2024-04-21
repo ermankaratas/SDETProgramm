@@ -1,6 +1,6 @@
-package Tag03;
+package Tag02;
 
-public class _01_Frage {
+public class _03_Frage {
     public static void main(String[] args) {
         int spenden1 = 500, spenden2 = 1000;
         int summe = spenden1 + spenden2;
