@@ -1,6 +1,6 @@
 package Tag03;
 
-public class _03_WideningCasting {
+public class _02_WideningCasting {
     public static void main(String[] args) {
         int zahl = 9;
         long summe = 500;

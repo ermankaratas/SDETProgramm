@@ -1,6 +1,6 @@
 package Tag03;
 
-public class _02_TypeConversions {
+public class _01_TypeConversions {
     public static void main(String[] args) {
         byte note1 = 98;
         byte note2 = 97;
