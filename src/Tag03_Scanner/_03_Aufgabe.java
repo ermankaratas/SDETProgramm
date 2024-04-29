@@ -1,4 +1,4 @@
-package Tag04;
+package Tag03_Scanner;
 
 public class _03_Aufgabe {
     public static void main(String[] args) {
