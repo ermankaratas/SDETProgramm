@@ -1,6 +1,6 @@
-package Tag01;
+package Tag01_Intro;
 
-public class HalloWelt {
+public class _00_HalloWelt {
     public static void main(String[] args) {
         System.out.println("Hallo");
 
