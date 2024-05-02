@@ -1,4 +1,4 @@
-package Tag02;
+package Tag01_Intro;
 
 public class _03_Frage {
     public static void main(String[] args) {
