@@ -1,4 +1,4 @@
-package Tag06_IfElse;
+package Tag06_IfElseSwitch;
 
 import java.util.Scanner;
 
