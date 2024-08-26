@@ -49,10 +49,3 @@ public class AutoProgrammMain {
         System.out.println("Durchschnittliches Herstellungsjahr = " + durchschnitt);
     }
 }
-
-class Auto {
-    int number;
-    String model;
-    int manufactureDate;
-}
-
