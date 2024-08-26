@@ -2,6 +2,13 @@ package Tag14_Examples._03_Example;
 
 import java.util.Scanner;
 
+// Ein Modul soll für ein Schulregistrierungsprogramm erstellt werden,
+// das die Informationen eines Schülers aufnimmt.
+// Ein Schüler hat folgende Informationen: Name, Nachname, Klasse und Adresse.
+// Erstellen Sie diese Struktur.
+// Definieren Sie anschließend einen Schüler, weisen Sie ihm Werte zu und geben Sie diese aus.
+
+
 public class SchuleMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

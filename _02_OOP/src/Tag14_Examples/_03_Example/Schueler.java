@@ -1,6 +1,6 @@
 package Tag14_Examples._03_Example;
 
-class Schueler {
+public class Schueler {
     String name;
     String nachname;
     int klasse;

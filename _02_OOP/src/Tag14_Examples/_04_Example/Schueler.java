@@ -1,8 +1,7 @@
-package Tag14_Examples._02_Example;
+package Tag14_Examples._04_Example;
 
 public class Schueler {
-    int schulNummer;
-    String vorname;
+    String name;
     String nachname;
     int klasse;
     String adresse;
