@@ -1,0 +1,6 @@
+// Aufgabe:
+// Ein Programm soll für eine AutoGalerie erstellt werden.
+// Jedes Auto hat eine AutoNummer (int), Marke (String) und ProduktionsJahr (int).
+// Erfassen Sie diese Informationen für 20 Autos vom Benutzer.
+// Geben Sie alle Autos in einer Methode aus.
+// Geben Sie den Durchschnitt des Produktionsjahres der Galerie in einer weiteren Methode aus.
